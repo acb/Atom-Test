@@ -1,0 +1,2 @@
+This file lives on dev
+Change it, then stash those changes, checkout master, checkout dev again, and then pop the stash
